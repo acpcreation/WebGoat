@@ -1,0 +1,2 @@
+[WARN] Could not open ./target/webgoat-8.2.3-SNAPSHOT.jar/BOOT-INF/lib/jruby-stdlib-9.3.6.0.jar/META-INF/jruby.home/bin/jruby.exe as an archive. Will scan it as regular file.
+[WARN] Could not open ./target/webgoat-8.2.3-SNAPSHOT.jar/BOOT-INF/lib/jruby-stdlib-9.3.6.0.jar/META-INF/jruby.home/bin/jrubyw.exe as an archive. Will scan it as regular file.
