@@ -1,21 +1,21 @@
 name: "UI-Test"
 on:
-    pull_request:
-        paths-ignore:
-            - '.txt'
-            - '*.MD'
-            - '*.md'
-            - 'LICENSE'
-            - 'docs/**'
-    push:
+    # pull_request:
+    #     paths-ignore:
+    #         - '.txt'
+    #         - '*.MD'
+    #         - '*.md'
+    #         - 'LICENSE'
+    #         - 'docs/**'
+    # push:
 #        tags-ignore:
 #            - '*'
-        paths-ignore:
-            - '.txt'
-            - '*.MD'
-            - '*.md'
-            - 'LICENSE'
-            - 'docs/**'
+        # paths-ignore:
+        #     - '.txt'
+        #     - '*.MD'
+        #     - '*.md'
+        #     - 'LICENSE'
+        #     - 'docs/**'
 
 jobs:
     build:
